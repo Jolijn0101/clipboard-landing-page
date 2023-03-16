@@ -8,13 +8,13 @@ The challenge was to make a clipboard-landing-page as close to the design as pos
 
 ## Screenshots
 
-<img src="screenshots/screenshot-desktop1.png" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;"/>
-<img src="screenshots/screenshot-desktop2.png" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;"/>
-<img src="screenshots/screenshot-desktop3.png" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;"/>
-<img src="screenshots/screenshot-ipad1.png" style="width:70%;" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;"/>
-<img src="screenshots/screenshot-ipad2.png" style="width:70%;" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;"/>
-<img src="screenshots/screenshot-mobile1.png" style="width:50%;" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;"/>
-<img src="screenshots/screenshot-mobile2.png" style="width:50%;" alt="" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;"/>
+<img src="screenshots/screenshot-desktop1.png" alt="" style="border: solid 2px grey; border-radius: 5px;"/>
+<img src="screenshots/screenshot-desktop2.png" alt="" style="border: solid 2px grey; border-radius: 5px;"/>
+<img src="screenshots/screenshot-desktop3.png" alt="" style="border: solid 2px grey; border-radius: 5px;"/>
+<img src="screenshots/screenshot-ipad1.png" style="width:70%; border: solid 2px grey; border-radius: 5px;" alt=""/>
+<img src="screenshots/screenshot-ipad2.png" style="width:70%; border: solid 2px grey; border-radius: 5px;" alt=""/>
+<img src="screenshots/screenshot-mobile1.png" style="width:50%; border: solid 2px grey; border-radius: 5px;" alt=""/>
+<img src="screenshots/screenshot-mobile2.png" style="width:50%; border: solid 2px grey; border-radius: 5px;" alt=""/>
 
 ## My experience
 
