@@ -8,17 +8,18 @@ The challenge was to make a clipboard-landing-page as close to the design as pos
 
 ## Screenshots
 
-<img src="screenshots/screenshot-desktop1.png" alt="" style="border: solid 2px grey; border-radius: 5px;"/>
-<img src="screenshots/screenshot-desktop2.png" alt="" style="border: solid 2px grey; border-radius: 5px;"/>
-<img src="screenshots/screenshot-desktop3.png" alt="" style="border: solid 2px grey; border-radius: 5px;"/>
-<img src="screenshots/screenshot-ipad1.png" style="width:70%; border: solid 2px grey; border-radius: 5px;" alt=""/>
-<img src="screenshots/screenshot-ipad2.png" style="width:70%; border: solid 2px grey; border-radius: 5px;" alt=""/>
-<img src="screenshots/screenshot-mobile1.png" style="width:50%; border: solid 2px grey; border-radius: 5px;" alt=""/>
-<img src="screenshots/screenshot-mobile2.png" style="width:50%; border: solid 2px grey; border-radius: 5px;" alt=""/>
+<img src="screenshots/screenshot-desktop1.png" alt=""/>
+<img src="screenshots/screenshot-desktop2.png" alt=""/>
+<img src="screenshots/screenshot-desktop3.png" alt=""/>
+<img src="screenshots/screenshot-ipad1.png" style="width:70%;" alt=""/>
+<img src="screenshots/screenshot-ipad2.png" style="width:70%;" alt=""/>
+<img src="screenshots/screenshot-mobile1.png" style="width:50%;" alt=""/>
+<img src="screenshots/screenshot-mobile2.png" style="width:50%;"/>
+<br></br>
 
 ## My experience
 
-This time the buttons were a bit challenging. I hope the now look as close as possible to the design. It was hard to see how they were made out of a screenshot. Making the design also look well on other screens then desktop format had it's challenges and I learned a lot from it.
+This time the buttons were a bit challenging. I hope they now look as close as possible to the design. It was hard to see how they were made out of a screenshot. Making the design also look well on other screens then desktop format had it's challenges and I learned a lot from it.
 
 ### Links
 
