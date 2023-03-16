@@ -467,7 +467,7 @@ footer ul {
 footer li {
   margin-bottom: 1.35em;
 }
-footer a:hover {
+footer li ul li:hover {
   cursor: pointer;
   color: var(--Strong-Cyan);
 }
@@ -487,15 +487,12 @@ footer a:hover {
     padding: 2.5em 11.5vw 0 11.5vw;
   }
   footer #menu_list {
-    justify-items: flex-start;
-    display: flex;
     text-align: left;
-    width: 30em;
-    margin-left: 3em;
+    display: flex;
+    flex-direction: row;
   }
-  footer li {
+  footer li ul li {
     margin-bottom: 1em;
-    margin-right: 2em;
     text-align: left;
   }
   #social {
@@ -512,7 +509,7 @@ footer a:hover {
 @media screen and (min-width: 1440px) {
   footer li {
     margin-bottom: 1em;
-    margin-right: 4em;
+    margin-right: 2em;
   }
   footer #menu_list {
     margin-left: 0;
